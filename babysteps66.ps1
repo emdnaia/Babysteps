@@ -1,3 +1,4 @@
+# Original upload: https://pastebin.com/Qhrbmy8R
 # v6.6
 # Prompt for user input with split strings
 $promptPart1 = 'Enter '
